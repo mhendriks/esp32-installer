@@ -1,4 +1,4 @@
-# Squeezelite-ESP32 Installer
+# ESP32 P1 Dongle Installer
 
 This is a demo installer website for [Squeezelite-ESP32](https://github.com/sle118/squeezelite-esp32).
 
